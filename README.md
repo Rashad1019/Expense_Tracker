@@ -251,19 +251,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Application in Action
 
 **Empty State - Ready to Track**
-![Empty Expense Tracker](https://github.com/Rashad1019/Expense_Tracker/blob/main/screenshots/empty-state.png)
+![Empty Expense Tracker](https://raw.githubusercontent.com/Rashad1019/Expense_Tracker/master/screenshots/empty-state.png)
 *Clean interface ready for your first expense entry*
 
 **Adding an Expense**
-![Adding Concert Expense](https://github.com/Rashad1019/Expense_Tracker/blob/main/screenshots/adding-expense.png)
+![Adding Concert Expense](https://raw.githubusercontent.com/Rashad1019/Expense_Tracker/master/screenshots/adding-expense.png)
 *Entering a $120 concert ticket in the Entertainment category*
 
 **Multiple Expenses Tracked**
-![Multiple Expenses](https://github.com/Rashad1019/Expense_Tracker/blob/main/screenshots/multiple-expense.png)
+![Multiple Expenses](https://raw.githubusercontent.com/Rashad1019/Expense_Tracker/master/screenshots/multiple-expense.png)
 *Tracking various expenses: vacation ($2700), lunch ($25), metro pass ($60), and concert ($120) - Total: $2905*
 
 **Full Expense List**
-![Complete Expense List](https://github.com/Rashad1019/Expense_Tracker/blob/main/screenshots/full-list.png)
+![Complete Expense List](https://raw.githubusercontent.com/Rashad1019/Expense_Tracker/master/screenshots/full-list.png)
 *Complete view showing all expenses with running total of $2880*
 
 ---
